@@ -26,3 +26,16 @@ Containerized Deployment:
 
 5- Using Docker Compose, the application is containerized for easy deployment and scaling.
 Consistent runtime environment ensures reliable performance.
+
+## Technology:
+1- Backend: Java Spring Boot
+Spring Boot framework for building a scalable and maintainable application.
+Spring Data JPA for database interaction.
+Spring Web for RESTful API development.
+2. Database: PostgreSQL
+ Relational database management system for secure and structured data storage.
+3. Containerization: Docker Compose
+Simplifies the setup and deployment process with containerized services.
+4- Build Tool: Maven
+ Dependency management and build lifecycle control.
+5- API Testing: Postman or similar tools for endpoint testing.
